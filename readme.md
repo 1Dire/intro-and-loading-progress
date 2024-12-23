@@ -1,5 +1,4 @@
-# Three.js Journey
-
+배포 : https://dire-intro-and-loding-progress.vercel.app/
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
